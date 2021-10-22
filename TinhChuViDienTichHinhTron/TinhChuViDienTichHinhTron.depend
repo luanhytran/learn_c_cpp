@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634920105 source:c:\users\hytra\desktop\tinhchuvidientichhinhtron\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
